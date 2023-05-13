@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Blog-Template-w3.css/static/css/main.e7794a64.css",
+    "main.js": "/Blog-Template-w3.css/static/js/main.f4426bd2.js",
+    "static/js/787.f587e8d5.chunk.js": "/Blog-Template-w3.css/static/js/787.f587e8d5.chunk.js",
+    "static/media/bridge.jpg": "/Blog-Template-w3.css/static/media/bridge.9b49fe62f8cbcbd639c3.jpg",
+    "static/media/woods.jpg": "/Blog-Template-w3.css/static/media/woods.fc72c40e8195e8546561.jpg",
+    "static/media/rock.jpg": "/Blog-Template-w3.css/static/media/rock.3aea6a2d5b6be3040498.jpg",
+    "static/media/workshop.jpg": "/Blog-Template-w3.css/static/media/workshop.326b4fa2602a09804c3b.jpg",
+    "static/media/avatar_g.jpg": "/Blog-Template-w3.css/static/media/avatar_g.a11222120b9a971f8979.jpg",
+    "static/media/gondol.jpg": "/Blog-Template-w3.css/static/media/gondol.20c27b42f86c6b5e2b07.jpg",
+    "index.html": "/Blog-Template-w3.css/index.html",
+    "main.e7794a64.css.map": "/Blog-Template-w3.css/static/css/main.e7794a64.css.map",
+    "main.f4426bd2.js.map": "/Blog-Template-w3.css/static/js/main.f4426bd2.js.map",
+    "787.f587e8d5.chunk.js.map": "/Blog-Template-w3.css/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7794a64.css",
+    "static/js/main.f4426bd2.js"
+  ]
+}
